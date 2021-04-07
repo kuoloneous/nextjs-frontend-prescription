@@ -1,25 +1,24 @@
-# Sauron Front End
+# Next JS Front End Prescription
+
+This repo is meant to act as a good starting place to begin developing your react application.  It offers out of the box, numerous useful things like linting, testing, code coverage, and makes use of some of the best modern frameworks for React.  As well this project offers a good directory structure to make managing large scale single repo projects more intuitive for developers.
 
 ## UI Frameworks
 - React
 - Next.js
 - TypeScript
 - Styled Components
-- ArchitectUI
+- Material UI
 
 ## Unit Testing
 - Enzyme
+- Jest
+- Istanbul (Code Coverage)
 
-
-## A/B Testing
-- Optimizely
-
-## Logging
-- 
 
 ## Style Guide
-- This projet follows the standard Airbnb style guide for Javascript & Typescript.
-
+- This projet follows the standard Airbnb style guide for Javascript & Typescript code.
+[Airbnb Style Guide](https://github.com/airbnb/javascript)
+- This project also recommends following the Angular Style Guide for Directory and naming convetions [Angular Style Guide](https://angular.io/guide/styleguide#naming)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

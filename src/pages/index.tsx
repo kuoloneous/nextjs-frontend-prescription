@@ -5,10 +5,6 @@ import {
   Container, Grid, Card, CardContent, Box,
 } from '@material-ui/core';
 
-interface Props {
-  user: any
-}
-
 function HomePage() {
   return (
     <>
